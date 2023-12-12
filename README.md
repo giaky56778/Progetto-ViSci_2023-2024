@@ -9,6 +9,7 @@ Teodoro Pacetti 02215A
 **ESOPIANETI**: https://www.hpcf.upr.edu/~abel/phl/hec2/database/phl_exoplanet_catalog.csv
 
 **GEO**: https://geojson-maps.ash.ms/
+
 Alcuni dataset sono stati creati da noi sulla base di quelli sopra elencati.
 
 ## Legenda dei campi principali del dataset
