@@ -1,4 +1,4 @@
-# Progetto di Visulizzazione Scientifica 2023-2024
+# Progetto di Visualizzazione Scientifica 2023-2024
 
 Giacomo Lucca 02678A
 
