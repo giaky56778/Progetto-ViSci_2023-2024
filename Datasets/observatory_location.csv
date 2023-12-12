@@ -1,0 +1,62 @@
+Name,Type,Location,State,Discover
+NASA Infrared Telescope Facility (IRTF),Earth,Hilo,Hawaii,1
+Mount Wilson Observatory,Earth,Mount Wilson,California,1
+Keck Observatory,Earth,Mauna Kea,Hawaii,1
+CHaracterising ExOPlanets Satellite (CHEOPS),Satellite,,,1
+Oak Ridge Observatory,Earth,Oak Ridge Observatory,Massachusetts,1
+Atacama Large Millimeter Array (ALMA),Earth,Atacama Large Millimeter Array (ALMA),Chile,1
+KOINet,Earth,Gottingen,Germany,1
+Winer Observatory ,Earth,Sonoita,Arizona,1
+Leoncito Astronomical Complex,Earth,Calingasta,Argentina,1
+Infrared Survey Facility,Earth,Sutherland,South Africa,1
+Mauna Kea Observatory,Earth,Mauna Kea,Hawaii,1
+Teide Observatory,Earth,Santa Cruz de Tenerife,Tenerife,1
+Xinglong Station,Earth,Taomulinggou,People's Republic of China,2
+Cerro Tololo Inter-American Observatory,Earth,Cerro Tololo,Chile,2
+Apache Point Observatory,Earth,Sunspot,New Mexico,2
+MEarth Project,Earth,Coronado National Forest ,Arizona,2
+Kitt Peak National Observatory,Earth,Tohono O'odham Nation,Arizona,2
+Acton Sky Portal Observatory,Earth,Acton,Massachusetts,2
+Large Binocular Telescope Observatory,Earth,Mount Graham,Arizona,2
+European Southern Observatory,Earth,Vitacura,Chile,2
+Parkes Observatory,Earth,Parkers Shire Council,Australia,2
+United Kingdom Infrared Telescope,Earth,Mauna Kea,Hawaii,2
+Haleakala Observatory,Earth,Mauna Kea,Hawaii,2
+Yunnan Astronomical Observatory,Earth,Kunming,People's Republic of China,3
+Spitzer Space Telescope,Satellite,,,3
+Palomar Observatory,Earth,San Diego,California,2
+Arecibo Observatory,Earth,Esperanza,Puerto Rico,3
+TrES,Earth,San Diego,California,5
+SuperWASP-North,Earth,Garafia,Tenerife,5
+Hubble Space Telescope,Satellite,,,6
+Fred Lawrence Whipple Observatory,Earth,Mount Hopkins ,Arizona,6
+XO,Earth,Haleakala,Hawaii,7
+Thueringer Landessternwarte Tautenburg,Earth,Sternwarte,Germany,8
+Gemini Observatory,Earth,Cerro Pachon,Chile,8
+Subaru Telescope,Earth,Mauna Kea,Hawaii,8
+KELT-South,Earth,Cape Town,South Africa,10
+WASP-South,Earth,Cape Town,South Africa,10
+Qatar Exoplanet Survey,Earth,Qatar,Qatar,11
+KELT-North,Earth,Sandy kelt ,Finland,11
+Calar Alto Observatory,Earth,Calar Alto,Spain,15
+Bohyunsan Optical Astronomical Observatory,Earth,Bohyeonsan,South Korea,19
+Okayama Astrophysical Observatory,Earth,Okayama,Japan,23
+Roque de los Muchachos Observatory,Earth,Carretera a Fuente Nueva,Spain,23
+MOA,Earth,Mount John,New Zealand,25
+KMTNet,Earth,Coonabarabran,Australia,26
+McDonald Observatory,Earth,Fort Davis,Texas,29
+Las Campanas Observatory,Earth,Cerro Las Campanas,Chile,29
+SuperWASP-South,Earth,Sutherland,South Africa,32
+CoRoT,Satellite,,,33
+Lick Observatory,Earth,Mount Hamilton,California,35
+Paranal Observatory,Earth,Cerro Paranal,Chile,36
+Anglo-Australian Telescope,Earth,Spring Observatory,Australia,37
+Haute-Provence Observatory,Earth,Saint-Michel-l'Observatoire,France,64
+HATNet,Earth,Mount Hopkins ,Arizona,67
+HATSouth,Earth,Windhoek,Namibia,69
+OGLE,Earth,Mount Stromlo,Australia,74
+Transiting Exoplanet Survey Satellite (TESS),Satellite,,,172
+W. M. Keck Observatory,Earth,Mauna Kea,Hawaii,183
+La Silla Observatory,Earth,La Higuera,Chile,261
+K2,Satellite,,,477
+Kepler,Satellite,,,2403
