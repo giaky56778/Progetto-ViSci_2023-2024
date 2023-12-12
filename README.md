@@ -1,11 +1,13 @@
 # Progetto di Visulizazzione Scientifica 2023-2024
 
 Giacomo Lucca 02678A
+
 Teodoro Pacetti 02215A
 
 ## Fonti dei dati
 
 **ESOPIANETI**: https://www.hpcf.upr.edu/~abel/phl/hec2/database/phl_exoplanet_catalog.csv
+
 **GEO**: https://geojson-maps.ash.ms/
 Alcuni dataset sono stati creati da noi sulla base di quelli sopra elencati.
 
