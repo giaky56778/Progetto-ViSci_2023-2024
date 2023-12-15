@@ -3,8 +3,9 @@
 Presentazione del progetto: [Canva](https://www.canva.com/design/DAF0dWURtFo/90fWdXqIVHKMyontiCr9Qg/view?utm_content=DAF0dWURtFo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 Membri del progetto:
-- Giacomo Lucca **02678A** giacomo.lucca@studenti.unimi.it
-- Teodoro Pacetti **02215A** teodoro.pacetti@studenti.unimi.it
+
+-   Giacomo Lucca **02678A** giacomo.lucca@studenti.unimi.it
+-   Teodoro Pacetti **02215A** teodoro.pacetti@studenti.unimi.it
 
 ## Fonti dei dati
 
@@ -13,3 +14,11 @@ Membri del progetto:
 **GEO**: [GeoJSON Map](https://geojson-maps.ash.ms/)
 
 Alcuni dataset sono stati creati da noi sulla base di quelli sopra elencati.
+
+## Installazione delle dipendenze richieste
+
+Per eseguire correttamente il codice, bisogna installare le librerie contenute nel file `requirements.txt` con il comando:
+
+```
+pip install -r requirements.txt
+```
